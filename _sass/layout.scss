@@ -512,7 +512,9 @@ nav > ul li a:active {
 
 .iconTop {
 	//color: $feature-icons-foreground-color;
-	background-image: linear-gradient(135deg, #57E9F2 30%, #6a11cb 80%, #b721ff 100%);
+	background: -webkit-linear-gradient(135deg, #57E9F2 30%, #6a11cb 80%, #b721ff 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
 
 .socialIconBack {
