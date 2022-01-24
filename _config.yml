@@ -35,24 +35,24 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : iKPOP APP. Designed For You. 🌎 
+  - title                                 : iKPOP. Designed For You. 🌎 
     description                           : Are you a K-POP or J-POP fan? Have fun with iKPOP real time platform. Everything you need to stan your favorite idols.
     fontawesome_icon_name                 : globe-americas
     
-  - title                                 : iKPOP 💎 Diamond of Diamonds 💎
+  - title                                 : 💎 Diamond of Diamonds 💎
     description                           : Collect free 💎💎💎. The most dedicated fans can win rewards for their favourite idols together with the fans around the globe!
     fontawesome_icon_name                 : gem
 
   - title                                 : Vote 🗳️ 
-    description                           : Vote and see ranking changes in real time. Win. Support. Celebrate...
-    fontawesome_icon_name                 : how_to_vote
+    description                           : Vote and see ranking changes in real time. <br>Win. Support. Celebrate...
+    fontawesome_icon_name                 : vote-yea
 
 
   - title                                 : Support 💗
     description                           : Create and promote Fan Events dedicated for your idol. 
     fontawesome_icon_name                 : volunteer_activism
 
-  - title                                 : iKPOP Real Time. Fast. Free. 🚀
+  - title                                 : RealTime. Fast. Free. 🚀
     description                           : Voting, Rankings, Charts, Statistics, Fan Events - all in real time.
     fontawesome_icon_name                 : mobile
   
