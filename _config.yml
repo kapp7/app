@@ -35,41 +35,42 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : iKPOP - app for worlwide K-POP and J-POP fans
-    description                           : Designed for you. Have fun with iKPOP real time platform developed for all worldwide K-POP and J-POP fans. Everything you need to stan your favorite idols. The most dedicated fans can win rewards by voting or other activities for their faves without any charges every day!
-    fontawesome_icon_name                 : gem
+  - title                                 : iKPOP APP. Designed For You. 🌎 
+    description                           : Are you a K-POP or J-POP fan? Have fun with iKPOP real time platform. Everything you need to stan your favorite idols.
+    fontawesome_icon_name                 : globe-americas
     
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
+  - title                                 : iKPOP 💎 Diamond of Diamonds 💎
+    description                           : Collect free 💎💎💎. The most dedicated fans can win rewards for their favourite idols together with the fans around the globe!
+    fontawesome_icon_name                 : gem
+
+  - title                                 : Vote 🗳️ 
+    description                           : Vote and see ranking changes in real time. Win. Support. Celebrate...
+    fontawesome_icon_name                 : how_to_vote
+
+
+  - title                                 : Support 💗
+    description                           : Create and promote Fan Events dedicated for your idol. 
+    fontawesome_icon_name                 : volunteer_activism
+
+  - title                                 : iKPOP Real Time. Fast. Free. 🚀
+    description                           : Voting, Rankings, Charts, Statistics, Fan Events - all in real time.
     fontawesome_icon_name                 : mobile
-
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name                 : play-circle
-
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-    fontawesome_icon_name                 : sync
-
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : adjust
   
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : star
+  - title                                 : Celebrate 🎉
+    description                           : Celebrate your idol birthday, debut anniversary, new album release in a special way. 
+    fontawesome_icon_name                 : gifts
 
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
-    fontawesome_icon_name                 : arrow-alt-circle-down
+  - title                                 : Promote 📈
+    description                           : Share your passion with the world. Share voting certificates, idol profiles and more...
+    fontawesome_icon_name                 : share-alt
 
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : link
+  - title                                 : Have fun 💬
+    description                           : Chat with other fans in real time. Earn badges and boosters. Take quizes.
+    fontawesome_icon_name                 : users
 
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : info-circle
+  - title                                 : Enjoy ✨
+    description                           : Every action you take is reflected in your bias monthly and annual ranking. Even predebut groups/auditions are included.
+    fontawesome_icon_name                 : medal
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
