@@ -21,7 +21,7 @@ enable_smart_app_banner                   : true                                
 
 # Information About Yourself
 your_name                                 : iKPOP Fan Zone                                
-your_link                                 : https://ikpop.club                     
+your_link                                 : https://ikpop.club/app                     
 your_city                                 :                                 
 email_address                             : ikpop.app@gmail.com
 facebook_username                         :                                           
@@ -39,8 +39,8 @@ features                                  :
     description                           : Are you a K-POP or J-POP fan? Have fun with iKPOP real time platform. Everything you need to stan your favorite idols.
     fontawesome_icon_name                 : globe-americas
     
-  - title                                 : 💎 Diamond of Diamonds 💎
-    description                           : Collect free 💎💎💎. The most dedicated fans can win rewards for their favourite idols together with the fans around the globe!
+  - title                                 : Diamond of Diamonds 💎
+    description                           : Collect free diamonds. The most dedicated fans can win rewards for their favourite idols together with the fans around the globe!
     fontawesome_icon_name                 : gem
 
   - title                                 : Vote 🗳️ 
