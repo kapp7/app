@@ -13,7 +13,7 @@ presskit_download_link                    :                                     
 app_icon                                  : assets/logo.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : iKPOP                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : Free                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : iKPOP links you to support your faves and stan all the way. Vote and promote your bias. Earn rewards for your favourite idols together with fans around the globe.
+app_description                           : iKPOP links for you to support your faves and stan all the way. Vote and promote your bias. Earn rewards for your favourite idols together with fans from around the globe.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
