@@ -4,12 +4,9 @@ title: iKPOP Q&A
 include_in_header: false
 ---
 
-# Changelog
-iKPOP is a rookie app. Everything is new!
-
 <br>
 
-### `What is iKPOP?`
+## `What is iKPOP?`
 iKPOP is a mobile app for all worldwide K-POP and J-POP fans. It is your Fan Zone where you can have fun and join others in various activities supporting your bias
  - iKPOP tries to give all fans the best experience serving almost everything in real time.
  - It might disconnect from time to time
@@ -17,13 +14,13 @@ iKPOP is a mobile app for all worldwide K-POP and J-POP fans. It is your Fan Zon
  - Found an issue? Contact iKPOP
  - iKPOP tries to provide the best translations possible. Found mistake? Contact iKPOP
 
-#### `iKPOP app wants to stay free for you!`
+### `iKPOP app wants to stay free for you!`
 Ads support free content, Ads help support our fan events. Tap “Allow” on the first screen to give permission to show ads that are more relevant to you.
 
-#### `What are the rewards for winners and how they are prvided?`
+### `What are the rewards for winners and how they are prvided?`
  - iKPOP holds various possibilities of voting for your favourite aritsts, every month there is a birtdhay/debut anniversary rewarded event as well as idol monthly ranking and any special theme vote options. The winners will receive rewards depending on the event level achieved as specified in each event description. The rewarded AD content is being prepared and selected by the fans.
 
-#### `Can I recommend a new Idol or a new themed voting?`
+### `Can I recommend a new Idol or a new themed voting?`
  - Wanna vote or support? Request new idol, group, predebut group, trainee or audition program to be added to iKPOP via Twitter message or email
  - Follow iKPOP Twitter for all updates, you can also nominate idols via Twitter requests or vote for new idols or trainees to be added to iKPOP profiles database
  - Message iKPOP with new vote concepts
