@@ -87,35 +87,31 @@ Please note that we will retain and use your information as necessary to comply 
 You can opt out from tracking.
 Please be aware that if you disable or remove tracking technologies, some parts of the Services may not function correctly.
 
-<br>
-
-## 4.0 Information processing and transfers for EEA individuals
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh.
 
 <br>
 
-## 5.0 Security
+## 4.0 Security
 
 We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
 
 <br>
 
-## 6.0 Links to Other Sites
+## 5.0 Links to Other Sites
 
 This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
 
 <br>
 
-## 7.0 Children’s Privacy
+## 6.0 Children’s Privacy
 
 These Services do not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13 years of age. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that I will be able to do the necessary actions.
 
 <br>
 
-## 8.0 Changes to This Privacy Policy
+## 7.0 Changes to This Privacy Policy
 
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.
 
-## 9.0 Contact Us
+## 8.0 Contact Us
 
 If you have any questions or suggestions about this Privacy Policy, do not hesitate to contact us at ikpop.app@gmail.com.
