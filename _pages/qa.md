@@ -15,13 +15,13 @@ iKPOP is a mobile app for all worldwide K-POP and J-POP fans. It is your Fan Zon
  - iKPOP tries to provide the best translations possible. Found mistake? Contact iKPOP
 
 ### `iKPOP app wants to stay free for you!`
-Ads support free content, Ads help support our fan events. Tap “Allow” on the first screen to give permission to show ads that are more relevant to you.
+Ads support free content, Ads help support our fan events. Tap “Allow” on the first screen to permit showing ads that are more relevant to you.
 
-### `What are the rewards for winners and how they are prvided?`
- - iKPOP holds various possibilities of voting for your favourite aritsts, every month there is a birtdhay/debut anniversary rewarded event as well as idol monthly ranking and any special theme vote options. The winners will receive rewards depending on the event level achieved as specified in each event description. The rewarded AD content is being prepared and selected by the fans.
-
+### `What are the rewards for winners and how they are provided?`
+ - iKPOP holds various possibilities of voting for your favourite artists, every month there is a birthday/debut anniversary rewarded event as well as idol monthly ranking and any special theme vote options. The winners will receive rewards depending on the event level achieved during voting as specified in each event description. iKPOP always wants to provide the best option for the winning fandom, in case a different ad is requested from the same market value level collection (social media campaigns, digital ads in South Korea, US, Japan or other countries) a change of the default one is possible within 2 days of winning the voting. The rewarded AD content is being prepared and selected by the fans. To see the current available collection of ads go to Fan Events. Detailed information about each ad location, the picture will be provided soon. 
+ 
 ### `Can I recommend a new Idol or a new themed voting?`
- - Wanna vote or support? Request new idol, group, predebut group, trainee or audition program to be added to iKPOP via Twitter message or email
+ - Wanna vote or support? Request new idol, group, pre debut group, trainee or audition program to be added to iKPOP via Twitter message or email
  - Follow iKPOP Twitter for all updates, you can also nominate idols via Twitter requests or vote for new idols or trainees to be added to iKPOP profiles database
  - Message iKPOP with new vote concepts
 
@@ -30,23 +30,22 @@ Ads support free content, Ads help support our fan events. Tap “Allow” on th
 - In-APP currency
 - Diamonds are blue gems
 - Amethysts are purple gems
-- Look for gem icon to go to the gems charging station or check your account balance
-- Gems are auto converted to votes or stars when voting or sponsoring an event
+- Look for the gem icon to go to the gems charging station or check your account balance
+- Gems are auto-converted to votes or stars when voting or sponsoring an event
 - Gems to votes, stars rates might change over time
 - Attend daily and look for special events for the best conversion rates
-- Enable notifications to not to miss special events and boosters
 - Before spending gems, check deadlines for each activity
 
 ### `Diamonds - blue`
 - DIAMONDS can be used to get votes, stars and execute various in-app actions
-- Gems obtained by watching ads expire. Make sure you use them before they expire in 60 days
+- Gems received by watching ads expire. Make sure you use them before they expire in 60 days
 - DIAMONDS can be used to get votes, stars and execute various in-app actions
 - When you don't have enough gems, you won't be able to vote or sponsor
 
 ### `How to get Diamonds?`
 - Watch free ad videos
 - Convert from Amethysts
-- In order to convert gems, go to diamonds charging station
+- To convert gems, go to the diamonds charging station
 - Create content
 - Participate in various iKPOP events
 - When you are in TOP100 monthly users ranking
@@ -54,7 +53,7 @@ Ads support free content, Ads help support our fan events. Tap “Allow” on th
 - Join iKPOP diamond hour for extra bonuses or boosters
 
 ### `Amethysts - purple`
-- They are permament
+- They are permanent
 - They don't have an expiration date
 - Can be converted to DIAMONDS
 
@@ -69,8 +68,8 @@ Ads support free content, Ads help support our fan events. Tap “Allow” on th
 - When you are in TOP100 monthly users ranking
 
 ### `How to vote?`
-- Tap on Vote tab or any voting widget
-- Find the idol you want to vote for and tap Vote icon
+- Tap on the Vote tab or any voting widget
+- Find the idol you want to vote for and tap the Vote icon
 - Select the number of gems to be converted to votes by sliding the circular indicator in the dialogue box displayed. 
 - Confirm your choice by touching the Vote button. 
 - After processing a confirmation message will be displayed
@@ -78,7 +77,7 @@ Ads support free content, Ads help support our fan events. Tap “Allow” on th
 ### `Voting & FanEvents results`
 - Official In-App and Twitter updates
 - Follow iKPOP for results announcements via Twitter
-- Each voting starts with basic reward that is being upgraded during time according to rewards levels. Winning fandom can select level rewards from the available collection via Twitter survey or default reward is assigned
+- Each voting starts with the basic reward that is being upgraded during time according to rewards levels. Winning fandom can select level rewards from the available collection via Twitter survey or a default reward is assigned
 - Vote more and get more for your idol. More votes - reward level up
 
 ### `How to join Fan Event?`
@@ -93,17 +92,17 @@ Ads support free content, Ads help support our fan events. Tap “Allow” on th
 - Tap on Fan Events tab
 - Touch the + button
 - Select Fan Event type and touch the + blue button
-- Fill all the details required
+- Fill in all the details required
 - Select the desired start date, the event or ad display will start at that date
 - You will be charged according to Fan Event rate"
-- You will receive a confirmation email if your Fan Event goes into Achieved state
+- You will receive a confirmation email if your Fan Event goes into the Achieved state
 - Ad Creative file must be provided by the creator. It can be submitted via Twitter or email: ikpop.app@gmail.com
 
 
 
-### `How to get refund?`
+### `How to get a refund?`
 - Return to failed Fan Event to get refund according to iKPOP policy
-- Refunds are available for limited number of days
+- Refunds are available for a limited number of days
 - Touch the Claim Refund button. 
 - Non-expired gems will be returned to your account balance.
 - After processing a confirmation message will be displayed
@@ -146,34 +145,40 @@ Your bias gains EXP stars in rankings:
 - Share the Idol Fan Event progress
 - Share the voting status
 - Share the Idol ranking
-- Share your referral link with picture encouraging your friends to join and vote or sponsor
+- Share your referral link with a picture encouraging your friends to join and vote or sponsor
 - Make the Idol profile more accurate by content contribution
 - Share the MV or FanCam real-time page
 - Create the IN-APP Fan Event
 
 ### `Where can I see my voting history?`
- - In Voting page tap the certificate icon
+ - In the Voting page tap the certificate icon
  - Go to My Profile => My History to see gems history
 
 
 ### `Can I use many accounts?`
 iKPOP doesn't limit accounts but some activities are limited to one device.
-Recommended: It is recommended to use one account per device due to ad display limitations. You can sign up through Apple Id, Twitter, Google, Facebook SNS accounts but only 1 account should be used per device. Multi accounts may lead to login, ad-networks, payments etc errors.
+Recommended: It is recommended to use one account per device due to ad display limitations. You can sign up through Apple Id, Twitter, Google, Facebook SNS accounts but only 1 account should be used per device. Multi accounts may lead to log in, ad-networks, payments etc errors.
 You are entitled to receive only one app install referral bonus per device if you use the referral link to register
 Following installations or new account sign up on the same device won't be rewarded
 
+### `Is iKPOP safe?`
+iKPOP uses an identifier that is being assigned to you when you log in using external authorization providers that manage the app authorization process for you. During the onboarding, you are being asked to provide your username, display name and optionally bio. You can also change your profile picture and select your bias. Information about your localization, email, age, gender or any other information linked to your identity is not being collected. In case of any account-related inquiries, it is not possible to identify you via your email, twitter account or apple account so please use your unique username when contacting us. We do collect some device-related information - your device id that is used to track referrals and welcome bonus, ad watching is also limited per device to prevent abuse of the service and ensure the proper functioning of the ads. In case of issues with the app, error information is being collected to help to diagnose the problems.
+We will ask you to provide a contactable email only in case you create a Fan Event, your email will be deleted when the Fan Event is closed.
+EU GDPR
+iKPOP can be used by any users around the globe including EU citizens so it strictly follows EU GDPR requirements. The General Data Protection Regulation (GDPR) is a privacy law from the European Union. 
+The purpose of the GDPR is to provide improved privacy protection and control for EU citizens. It is designed to give individuals control of their data. This is a reason why you can see some additional messages related to EU GDPR while using the app, no matter where you are from as iKPOP doesn't collect location information,  it is impossible to disable them for non-EU users.
+
 ### `How to withdraw?`
-You can withdraw from iKPOP by sending us an email. Set your email in your user profile and send us an email from this email with your username. After this action, all information stored in your profile will be deleted and can't be restored.
+You can withdraw from iKPOP by sending us an email. Set your email in your user profile (Display name) and send us an email from this email with your username. After this action, all information stored in your profile will be deleted and can't be restored.
 
 ### `What if I forget my password?`
 SNS accounts are being used to log in to iKPOP, please recover your password with your account provider (Google, Twitter, Facebook, Apple)
-
 
 ### `Content`
 - You can submit your idol profile data. Rewards are being applied after verification
 - You can submit your idol pictures or fan art
 
-### `Real Time Stats`
+### `Real-Time Stats`
 - When using statistics real-time functionality ads will be displayed from time to time
 - You can watch YT stats in real-time
 
