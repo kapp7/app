@@ -38,7 +38,7 @@ Ads support free content, Ads help support our fan events. Tap “Allow” on th
 
 ### `Diamonds - blue`
 - DIAMONDS can be used to get votes, stars and execute various in-app actions
-- Gems received by watching ads expire. Make sure you use them before they expire in 60 days
+- Gems received by watching ads expire. Make sure you use them before they expire in 120 days
 - DIAMONDS can be used to get votes, stars and execute various in-app actions
 - When you don't have enough gems, you won't be able to vote or sponsor
 
