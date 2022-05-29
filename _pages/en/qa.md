@@ -38,7 +38,7 @@ Ads support free content, Ads help support our fan events. Tap “Allow” on th
 
 ### `Diamonds - blue`
 - DIAMONDS can be used to get votes, stars and execute various in-app actions
-- Gems received by watching ads expire. Make sure you use them before they expire in 60 days
+- Gems received by watching ads expire. Make sure you use them before they expire in 120 days
 - DIAMONDS can be used to get votes, stars and execute various in-app actions
 - When you don't have enough gems, you won't be able to vote or sponsor
 
@@ -47,6 +47,7 @@ Ads support free content, Ads help support our fan events. Tap “Allow” on th
 - Convert from Amethysts
 - To convert gems, go to the diamonds charging station
 - Create content
+- Share & Promote
 - Participate in various iKPOP events
 - When you are in TOP100 monthly users ranking
 - Fortune wheel
@@ -61,7 +62,6 @@ Ads support free content, Ads help support our fan events. Tap “Allow” on th
 - Confirm daily attendance
 - Continuous Attendance
 - Refer
-- Share & Promote
 - Level up
 - Create content
 - Participate in various iKPOP events
@@ -70,9 +70,16 @@ Ads support free content, Ads help support our fan events. Tap “Allow” on th
 ### `How to vote?`
 - Tap on the Vote tab or any voting widget
 - Find the idol you want to vote for and tap the Vote icon
-- Select the number of gems to be converted to votes by sliding the circular indicator in the dialogue box displayed. 
+- Select the number of gems to be converted to votes by sliding the circular indicator in the dialogue box displayed or enter the number (tap the number first). 
 - Confirm your choice by touching the Vote button. 
 - After processing a confirmation message will be displayed
+
+### `Prizes`
+1st - Stars are now being collected based on the overall voting diamond score. So now the prizes can be unlocked faster. After the voting has closed, there will be a poll to select the winning prize from a pre-selected group (chosen by iKPOP) of the available unlocked rewards. If enough stars have been collected during the collection period there maybe be more than 1 prize offered.
+
+2nd - … -  Stars are now being calculated based on an individual score. When at least 1% of that particular rank minimum goal has been achieved the list of the available prizes that can be achieved and then the overall progress towards that goal will become available. The higher the rank, the faster the stars can be collected. There is no 1-1 rate of diamonds to stars conversion.
+
+In the voting description, there is a minimum individual goal for all ranks eligible for the rewards specified. Although this may vary from voting to voting, please check each event's rules for the specific details.
 
 ### `Voting & FanEvents results`
 - Official In-App and Twitter updates
