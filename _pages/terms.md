@@ -33,6 +33,22 @@ With respect to FanZone’s responsibility for your use of the app, when you’r
 
 At some point, we may wish to update the app. The app is currently available on Android & iOS – the requirements for the both systems(and for any additional systems we decide to extend the availability of the app to) may change, and you’ll need to download the updates if you want to keep using the app. FanZone does not promise that it will always update the app so that it is relevant to you and/or works with the Android & iOS version that you have installed on your device. However, you promise to always accept updates to the application when offered to you, We may also wish to stop providing the app, and may terminate use of it at any time without giving notice of termination to you. Unless we tell you otherwise, upon any termination, (a) the rights and licenses granted to you in these terms will end; (b) you must stop using the app, and (if needed) delete it from your device.
 
+**Invalid Activity Policy**
+Users must comply with all of the following:
+
+Users of FanZone may not use or benefit from any artificial, fraudulent, deceptive, or other means to simulate or manipulate the account balance actions.
+Invalid Activity includes, but is not limited to, engaging in, facilitating, or benefiting from any of the following activities:
+
+- running of “robots”, “spiders” or other automated  requests
+- manipulating or misrepresenting device ids, device specifications, geolocation, header information or other information (including Invalid Activity - arising from the spoofing of an application)
+- manipulating or hijacking an End-User’s device
+- automatically refreshing Ads
+- generating traffic from recognized proxy IPs
+- using remotely controlled computers/phones
+
+The determination of what constitutes Invalid Activity under this policy will be made at FanZone’s sole discretion.
+If any Invalid Activity is detected, the account will be immadiately suspended for further verification.
+
 **Changes to This Terms and Conditions**
 
 We may update our Terms and Conditions from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Terms and Conditions on this page.
