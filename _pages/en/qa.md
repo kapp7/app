@@ -161,12 +161,26 @@ Your bias gains EXP stars in rankings:
  - In the Voting page tap the certificate icon
  - Go to My Profile => My History to see gems history
 
-
 ### `Can I use many accounts?`
-iKPOP doesn't limit accounts but some activities are limited to one device.
-Recommended: It is recommended to use one account per device due to ad display limitations. You can sign up through Apple Id, Twitter, Google, Facebook SNS accounts but only 1 account should be used per device. Multi accounts may lead to log in, ad-networks, payments etc errors.
+iKPOP doesn't limit accounts but some activities are limited to one device or qualified as ivalid and may lead to the account suspension.
+It is recommended to use one account per device due to ad display limitations. You can sign up through Apple Id, Twitter, Google, Facebook SNS accounts but only 1 account should be used per device. Multi accounts may lead to log in, ad-networks, payments etc errors.
 You are entitled to receive only one app install referral bonus per device if you use the referral link to register
-Following installations or new account sign up on the same device won't be rewarded
+Following installations or new account sign up on the same device won't be rewarded.
+
+### `Invalid Activity`
+Users must comply with all of the following:
+Users of may not use or benefit from any artificial, fraudulent, deceptive, or other means to simulate or manipulate the account balance actions.
+Invalid Activity includes, but is not limited to, engaging in, facilitating, or benefiting from any of the following activities:
+
+- running of “robots”, “spiders” or other automated requests
+- manipulating or misrepresenting device ids, device specifications, geolocation, header information or other information (including Invalid Activity - arising from the spoofing of an application)
+- manipulating or hijacking an End-User’s device
+- automatically refreshing Ads
+- generating traffic from recognized proxy IPs
+- using remotely controlled computers/phones
+
+The determination of what constitutes Invalid Activity under this policy will be made at iKPOP’s sole discretion.
+If any Invalid Activity is detected, the account will be immadiately suspended for further verification.
 
 ### `Is iKPOP safe?`
 iKPOP uses an identifier that is being assigned to you when you log in using external authorization providers that manage the app authorization process for you. During the onboarding, you are being asked to provide your username, display name and optionally bio. You can also change your profile picture and select your bias. Information about your localization, email, age, gender or any other information linked to your identity is not being collected. In case of any account-related inquiries, it is not possible to identify you via your email, twitter account or apple account so please use your unique username when contacting us. We do collect some device-related information - your device id that is used to track referrals and welcome bonus, ad watching is also limited per device to prevent abuse of the service and ensure the proper functioning of the ads. In case of issues with the app, error information is being collected to help to diagnose the problems.
