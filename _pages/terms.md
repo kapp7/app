@@ -49,7 +49,7 @@ Invalid Activity includes, but is not limited to, engaging in, facilitating, or 
 The determination of what constitutes Invalid Activity under this policy will be made at FanZone’s sole discretion.
 If any Invalid Activity is detected, the account will be immadiately suspended for further verification.
 
-Selling iKPOP diamonds is prohibited and will result in diabling the account and deducting the diamonds from the results. 
+Selling iKPOP diamonds is prohibited and will result in disabling the account and deducting the diamonds from the results. 
 
 **Changes to This Terms and Conditions**
 
