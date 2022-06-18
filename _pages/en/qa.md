@@ -162,8 +162,8 @@ Your bias gains EXP stars in rankings:
  - Go to My Profile => My History to see gems history
 
 ### `Can I use many accounts?`
-iKPOP doesn't limit accounts but some activities are limited to one device or qualified as ivalid and may lead to the account suspension.
-It is recommended to use one account per device due to ad display limitations. You can sign up through Apple Id, Twitter, Google, Facebook SNS accounts but only 1 account should be used per device. Multi accounts may lead to log in, ad-networks, payments etc errors.
+iKPOP doesn't limit accounts but some activities are limited to one device or qualified as invalid and may lead to account suspension.
+It is recommended to use one account per device due to ad display limitations. You can sign up through Apple Id, Twitter, Google SNS accounts but only 1 account should be used per device. Multi accounts may lead to log in, ad-networks, payments, attendance etc errors.
 You are entitled to receive only one app install referral bonus per device if you use the referral link to register
 Following installations or new account sign up on the same device won't be rewarded.
 
