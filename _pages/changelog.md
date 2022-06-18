@@ -10,7 +10,7 @@ iKPOP is a rookie app. Everything is new!
 <br>
 
 ### `Latest`
-# **Version 1.0**
+# **Version 1.0.***
 This is the first release of our app. 
 
 #### What's New
@@ -21,6 +21,9 @@ This is the first release of our app.
 - [Terms of use](/terms)
 
 #### Bug Fixes
+- Attendance can be claimed only once per device.
+- Hiding of keyboard - iOS
+- Real time ranks changes
 - Contact us via Twitter dm or email at @ikpop.app@gmail.com to report issues
 
 #### Requests
