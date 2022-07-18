@@ -38,7 +38,7 @@ Ads support free content, Ads help support our fan events. Tap “Allow” on th
 
 ### `Diamonds - blue`
 - DIAMONDS can be used to get votes, stars and execute various in-app actions
-- Gems received by watching ads expire. Make sure you use them before they expire in 120 days
+- Blue diamonds expire. Make sure you use them before they expire in 90 days. Check the expiration in My History page. If you have expiration booster, you can keep them longer.
 - DIAMONDS can be used to get votes, stars and execute various in-app actions
 - When you don't have enough gems, you won't be able to vote or sponsor
 
@@ -75,9 +75,9 @@ Ads support free content, Ads help support our fan events. Tap “Allow” on th
 - After processing a confirmation message will be displayed
 
 ### `Prizes`
-1st - Stars are now being collected based on the overall voting diamond score. So now the prizes can be unlocked faster. After the voting has closed, there will be a poll to select the winning prize from a pre-selected group (chosen by iKPOP) of the available unlocked rewards. If enough stars have been collected during the collection period there maybe be more than 1 prize offered.
+1st -Prized depends on overall voting diamond score. All lower ranks contribute to 1st rank rewards and are unlocked faster compared to lower ranks. After the voting is closed, there is a poll to select the winning prize from a pre-selected group (chosen by iKPOP) of the available unlocked rewards. If enough stars have been collected during the voting period there maybe be more than 1 prize offered.
 
-2nd - … -  Stars are now being calculated based on an individual score. When at least 1% of that particular rank minimum goal has been achieved the list of the available prizes that can be achieved and then the overall progress towards that goal will become available. The higher the rank, the faster the stars can be collected. There is no 1-1 rate of diamonds to stars conversion.
+2nd - … -  based on an individual score. When at least 1% of that particular rank minimum goal is achieved the list of the available prizes that can be achieved and then the overall progress towards that goal becomes available. The higher the rank, the faster the stars can be collected. There is no 1-1 rate of diamonds to stars (fan events in-app currency) conversion.
 
 In the voting description, there is a minimum individual goal for all ranks eligible for the rewards specified. Although this may vary from voting to voting, please check each event's rules for the specific details.
 
@@ -86,6 +86,10 @@ In the voting description, there is a minimum individual goal for all ranks elig
 - Follow iKPOP for results announcements via Twitter
 - Each voting starts with the basic reward that is being upgraded during time according to rewards levels. Winning fandom can select level rewards from the available collection via Twitter survey or a default reward is assigned
 - Vote more and get more for your idol. More votes - reward level up
+
+### `Missions`
+Stay tuned to unlock boosters.
+
 
 ### `How to join Fan Event?`
 - Fan Event is an iKPOP service that allows support publishing ads for Idols
@@ -104,7 +108,6 @@ In the voting description, there is a minimum individual goal for all ranks elig
 - You will be charged according to Fan Event rate"
 - You will receive a confirmation email if your Fan Event goes into the Achieved state
 - Ad Creative file must be provided by the creator. It can be submitted via Twitter or email: ikpop.app@gmail.com
-
 
 
 ### `How to get a refund?`
