@@ -79,7 +79,7 @@ Ads support free content, Ads help support our fan events. Tap “Allow” on th
 
 2nd - … -  based on an individual score. When at least 1% of that particular rank minimum goal is achieved the list of the available prizes that can be achieved and then the overall progress towards that goal becomes available. The higher the rank, the faster the stars can be collected. There is no 1-1 rate of diamonds to stars (fan events in-app currency) conversion.
 
-In the voting description, there is a minimum individual goal for all ranks eligible for the rewards specified. Although this may vary from voting to voting, please check each event's rules for the specific details.
+In the voting description, there is a minimum individual goal for all ranks eligible for the rewards specified. Although this may vary from voting to voting, please check each event's rules for the specific details. Until the minimum goal is achieved all prizes opytions are locked and the progress doesn't show 100%.
 
 ### `Voting & FanEvents results`
 - Official In-App and Twitter updates
