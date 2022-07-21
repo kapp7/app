@@ -75,11 +75,14 @@ Ads support free content, Ads help support our fan events. Tap “Allow” on th
 - After processing a confirmation message will be displayed
 
 ### `Prizes`
-1st -Prized depends on overall voting diamond score. All lower ranks contribute to 1st rank rewards and are unlocked faster compared to lower ranks. After the voting is closed, there is a poll to select the winning prize from a pre-selected group (chosen by iKPOP) of the available unlocked rewards. If enough stars have been collected during the voting period there maybe be more than 1 prize offered.
+1st - Prized depends on overall voting diamond score. All lower ranks contribute to 1st rank rewards and are unlocked faster compared to lower ranks. After the voting is closed, there is a poll to select the winning prize from a pre-selected group (chosen by iKPOP) of the available unlocked rewards. If enough stars have been collected during the voting period there maybe be more than 1 prize offered.
 
-2nd - … -  based on an individual score. When at least 1% of that particular rank minimum goal is achieved the list of the available prizes that can be achieved and then the overall progress towards that goal becomes available. The higher the rank, the faster the stars can be collected. There is no 1-1 rate of diamonds to stars (fan events in-app currency) conversion.
+2nd - … -  based on an individual score. When at least 1% of that particular rank minimum goal is achieved the list of the available prizes that can be achieved and then the progress towards that goal becomes available. The higher the rank, the faster the options can be unlocked. There is no 1-1 rate of diamonds to stars (fan events in-app currency) conversion.
 
-In the voting description, there is a minimum individual goal for all ranks eligible for the rewards specified. Although this may vary from voting to voting, please check each event's rules for the specific details. Until the minimum goal is achieved all prizes opytions are locked and the progress doesn't show 100%.
+Red stop sign (main voting screen and progress < 100%) - none of the options is unlocked. Even lower value options might be showing 99.9% progress.
+Green - (main voting screen and progress >= 100%) - the selection of options will be available.
+
+In the voting description, there is a minimum individual goal for all ranks eligible for the rewards specified. Although this may vary from voting to voting, please check each event's rules for the specific details. Until the minimum goal is achieved all prizes options are locked, no matter of the option value.
 
 ### `Voting & FanEvents results`
 - Official In-App and Twitter updates
