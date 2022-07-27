@@ -20,6 +20,9 @@ Ads support free content, Ads help support our fan events. Tap “Allow” on th
 ### `iKPOP upcoming changes!`
 - August 1st 2022 - service expiring diamonds older than 90 days will be enabled. You can keep the diamonds longer if you're a user that is active daily and collects expiration +24h boosters.
 - Twitter Link sharing rewards will be reduced, instead all users sharing and using iKPOP links will be rewarded no matter where they are posted. Each link will be an indyvidual referral link and each unique app open (not only new one) event will be generating diamonds. 
+- Follower reward reduced to 100
+- 1,5x , 2x diamonds boosters activated for TOP users
+- Rules to enter 2x, 3x diamond hours event
 - New methods of earning diamonds
 
 
