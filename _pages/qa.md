@@ -159,6 +159,21 @@ Your bias gains EXP stars in rankings:
 - When your shares are verified
 - When your watch ads (min number per day)
 
+### `Monthly Idol Ranking benefits`
+Basic reward 08/22 - 500 💎
+In order to receive a monthly #1 bias reward you have to (at least one):
+- Must actively vote (min 1000 💎)  
+- At least 3 purple Gem Vote on the eventual winning idol within the current voting period 
+- Donated gems to any Fan event (min 2000 💎)
+
+also please note:
+- intentional or multiple bias changes are not allowed and will make this reward null and void 
+- bias changes within the same member group are also not excluded
+- must be an active user (this includes the factors: number of watched ads + attendance)
+
+Consecutive wins add a multiply factor and bonus rewards
+
+
 
 ### `How to promote my Idol?`
 - Share the Idol profile
