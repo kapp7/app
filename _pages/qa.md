@@ -171,7 +171,7 @@ also please note:
 - bias changes within the same member group are also not excluded
 - must be an active user (this includes the factors: number of watched ads + attendance)
 
-Consecutive wins add a multiply factor and bonus rewards
+Consecutive wins give bonus rewards
 
 
 
