@@ -92,6 +92,7 @@ Green - (main voting screen and progress >= 100%) - the selection of options wil
 
 In the voting description, there is a minimum individual goal for all ranks eligible for the rewards specified. Although this may vary from voting to voting, please check each event's rules for the specific details. Until the minimum goal is achieved all prizes options are locked, no matter of the option value.
 
+
 ### `Voting & FanEvents results`
 - Official In-App and Twitter updates
 - Follow iKPOP for results announcements via Twitter
@@ -134,7 +135,7 @@ Stay tuned to unlock boosters.
 - Like an idol
 - Return to MyIdols and double click Idol icon
 - Disliking your bias will result in bias change to the 2nd one in My Idols list
-- When you like an idol it is added to My Idols list
+- When you like an idol one is added to My Idols list
 
 ### `How to reorder MyIdols?`
 - Drag and drop idols
@@ -157,6 +158,21 @@ Your bias gains EXP stars in rankings:
 - When you create content
 - When your shares are verified
 - When your watch ads (min number per day)
+
+### `Monthly Idol Ranking benefits`
+Basic reward 08/22 - 500 💎
+In order to receive a monthly #1 bias reward you have to (at least one):
+- Must actively vote (min 1000 💎)  
+- At least 3 purple Gem Vote on the eventual winning idol within the current voting period 
+- Donated gems to any Fan event (min 2000 💎)
+
+also please note:
+- intentional or multiple bias changes are not allowed and will make this reward null and void 
+- bias changes within the same member group are also not excluded
+- must be an active user (this includes the factors: number of watched ads + attendance)
+
+
+Consecutive wins add a multiply factor and bonus rewards
 
 
 ### `How to promote my Idol?`
