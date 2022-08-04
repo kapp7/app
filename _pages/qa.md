@@ -29,7 +29,7 @@ Ads support free content, Ads help support our fan events. Tap “Allow” on th
 - Twitter Follower reward reduced to 100
 - new accounts have to wait approximately 2-3 weeks to receive the reward
 - accounts must have followers
-- 1,5x, 2x, 3x diamond boosters activated for TOP users
+- 1.5x, 2x, 3x diamond boosters activated for TOP users
 - Rules to enter 2x, 3x diamond hours event
 - New methods of earning diamonds
 
