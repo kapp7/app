@@ -17,7 +17,10 @@ iKPOP is a mobile app for all worldwide K-POP and J-POP fans. It is your Fan Zon
 ### `iKPOP app wants to stay free for you!`
 Ads support free content, Ads help support our fan events. Tap “Allow” on the first screen to permit showing ads that are more relevant to you.
 
+
 ### `iKPOP upcoming changes!`
+- October releases - TOP Users ranking, Ad watching limits will be updated (possible to load at most 1 ad per minute, and up to 10 per hour), ad value depends on the ad serverd, not all ads loaded have predetermined reward values (new ad provider), iOS in-app purchases, daily Twitter/Youtube statistics, MV voting
+- On October 1st, 2022 - update of the available ads values.
 - On August 1st, 2022 - service expiring diamonds older than 90 days will be enabled. You can keep the diamonds longer if you're a user that is active daily and collects expiration +24h boosters. You can have up to 10 expiration +24h boosters. 
 - Twitter Link sharing rewards will be reduced, instead, all users sharing and using iKPOP links will be rewarded no matter where they are posted. Each link will be an individual referral link and a unique app open (not only a new one) event by a user that is active will be generating diamonds. 
 - Value of the reward for Twitter link sharing depends on:
@@ -33,7 +36,7 @@ Ads support free content, Ads help support our fan events. Tap “Allow” on th
 - New methods of earning diamonds
 
 ### `What are the rewards for winners and how they are provided?`
- - iKPOP holds various possibilities of voting for your favourite artists, every month there is a birthday/debut anniversary rewarded event as well as idol monthly ranking and any special theme vote options. The winners will receive rewards depending on the event level achieved during voting as specified in each event description. iKPOP always wants to provide the best option for the winning fandom, in case a different ad is requested from the same market value level collection (social media campaigns, digital ads in South Korea, US, Japan or other countries) a change of the default one is possible within 2 days of winning the voting. The rewarded AD content is being prepared and selected by the fans. To see the current available collection of ads go to Fan Events. Detailed information about each ad location, the picture will be provided soon. 
+ - iKPOP holds various possibilities of voting for your favourite artists, every month there is a birthday/debut anniversary rewarded event as well as idol monthly ranking and any special theme vote options. The winners will receive rewards depending on the event level achieved during voting as specified in each event description. iKPOP always wants to provide the best option for the winning fandom, in case a different ad is requested from the same market value level collection (social media campaigns, digital ads in South Korea, US, Japan or other countries) a change of the default one is possible within 2 days of winning the voting. The rewarded AD content is being prepared and selected by the fans. To see the current available collection of ads go to Fan Events. 
  
 ### `Can I recommend a new Idol or a new themed voting?`
  - Wanna vote or support? Request new idol, group, pre debut group, trainee or audition program to be added to iKPOP via Twitter message or email
@@ -62,10 +65,11 @@ Ads support free content, Ads help support our fan events. Tap “Allow” on th
 - Convert from Amethysts
 - To convert gems, go to the diamonds charging station
 - Create content
-- Share & Promote
-- Participate in various iKPOP events
+- Share & Promote - bonus rewards for actual links activity
+- Participate in various iKPOP events 
+- Participate in Ranking voting - Bias bonus at the end of every month for winners
 - When you are in TOP100 monthly users ranking
-- Fortune wheel
+- Fortune wheel or Surprise Bonuses
 - Join iKPOP diamond hour for extra bonuses or boosters
 
 ### `Amethysts - purple`
@@ -98,7 +102,6 @@ Red stop sign (main voting screen and progress < 100%) - none of the options is 
 Green - (main voting screen and progress >= 100%) - the selection of options will be available.
 
 In the voting description, there is a minimum individual goal for all ranks eligible for the rewards specified. Although this may vary from voting to voting, please check each event's rules for the specific details. Until the minimum goal is achieved all prizes options are locked, no matter of the option value.
-
 
 ### `Voting & FanEvents results`
 - Official In-App and Twitter updates
@@ -142,7 +145,7 @@ Stay tuned to unlock boosters.
 - Like an idol
 - Return to MyIdols and double click Idol icon
 - Disliking your bias will result in bias change to the 2nd one in My Idols list
-- When you like an idol one is added to My Idols list
+- When you like an idol it is added to My Idols list
 
 ### `How to reorder MyIdols?`
 - Drag and drop idols
@@ -170,16 +173,16 @@ Your bias gains EXP stars in rankings:
 Basic reward 08/22 - 500 💎
 In order to receive a monthly #1 bias reward you have to (at least one):
 - Must actively vote (min 1000 💎)  
-- At least 3 purple Gem Vote on the eventual winning idol within the current voting period 
-- Donated gems to any Fan event (min 2000 💎)
+- At least 5 Vote on the eventual winning idol within the current voting period 
+
 
 also please note:
 - intentional or multiple bias changes are not allowed and will make this reward null and void 
-- bias changes within the same member group are also not excluded
-- must be an active user (this includes the factors: number of watched ads + attendance)
-
+- bias changes within the same member group are not excluded
+- must be an active user (this includes the factors: number of watched ads + attendance + purchases, sum of diamonds earned  during 1 month voting period >= reward value)
 
 Consecutive wins give bonus rewards
+
 
 
 ### `How to promote my Idol?`
