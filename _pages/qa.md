@@ -19,21 +19,11 @@ Ads support free content, Ads help support our fan events. Tap “Allow” on th
 
 
 ### `iKPOP upcoming changes!`
-- October releases - TOP Users ranking, Ad watching limits will be updated (possible to load at most 1 ad per minute, and up to 10 per hour), ad value depends on the ad serverd, not all ads loaded have predetermined reward values (new ad provider), iOS in-app purchases, daily Twitter/Youtube statistics, MV voting
-- On October 1st, 2022 - update of the available ads values.
-- On August 1st, 2022 - service expiring diamonds older than 90 days will be enabled. You can keep the diamonds longer if you're a user that is active daily and collects expiration +24h boosters. You can have up to 10 expiration +24h boosters. 
-- Twitter Link sharing rewards will be reduced, instead, all users sharing and using iKPOP links will be rewarded no matter where they are posted. Each link will be an individual referral link and a unique app open (not only a new one) event by a user that is active will be generating diamonds. 
-- Value of the reward for Twitter link sharing depends on:
-    - Tweet must have ikpop link
-    - Tweet must have unique content
-    - 1 rewarded Tweet per hour
-    - Tweet might generate more bonuses after the first day in case of many interactions with it
-- Twitter Follower reward reduced to 100
-- new accounts have to wait approximately 2-3 weeks to receive the reward
-- accounts must have followers
-- 1.5x, 2x, 3x diamond boosters activated for TOP users
-- Rules to enter 2x, 3x diamond hours event
-- New methods of earning diamonds
+- Novemeber/December releases - TOP Users ranking, Ad watching limits will be updated (possible to load at most 1 ad per minute, and up to 10 per hour, up to 100 rewards per 24h), ad value depends on the ad server, not all ads loaded have predetermined reward values (new ad provider), iOS in-app purchases, daily Twitter/Youtube statistics, MV voting
+- On November 30th, 2022 - update of the available ads values
+- New voting schedule 2023
+
+
 
 ### `What are the rewards for winners and how they are provided?`
  - iKPOP holds various possibilities of voting for your favourite artists, every month there is a birthday/debut anniversary rewarded event as well as idol monthly ranking and any special theme vote options. The winners will receive rewards depending on the event level achieved during voting as specified in each event description. iKPOP always wants to provide the best option for the winning fandom, in case a different ad is requested from the same market value level collection (social media campaigns, digital ads in South Korea, US, Japan or other countries) a change of the default one is possible within 2 days of winning the voting. The rewarded AD content is being prepared and selected by the fans. To see the current available collection of ads go to Fan Events. 
