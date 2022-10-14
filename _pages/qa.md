@@ -62,6 +62,19 @@ Ads support free content, Ads help support our fan events. Tap “Allow” on th
 - Fortune wheel or Surprise Bonuses
 - Join iKPOP diamond hour for extra bonuses or boosters
 
+
+### `What are Ad watching limits?`
+
+You can earn diamonds or receive bonus rewards by watching video ads. You can receive up to 100 rewards per 24 hours.
+External providers serve the ads and it is up to their discretion on how many ads you can watch. If there is not enough ad inventory or you had reached ad providers' daily limit you will get a 'No Ad' or 'No fill' message, and you will have to wait at least 5 more minutes to make another attempt to watch an ad.
+To ensure smooth operations:
+- Up to 1 ad can be loaded per minute
+- You can watch up to 10 ads per hour. It is at the discretion of the ad provider if it is rewarded and reward value. Every skipped/dismissed video before "Reward granted" message or end of the video ad, counts as part of the hourly limit.
+
+- Video ads are no longer preloaded, after tapping "Watch video", you have to wait till the video is downloaded and can be displayed.
+- Ability to watch ads smoothly depends of your network connection
+- iKPOP doesnt guarantee that you can watch 100 ads per 24h
+
 ### `Amethysts - purple`
 - They are permanent
 - They don't have an expiration date
