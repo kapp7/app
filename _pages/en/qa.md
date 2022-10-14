@@ -22,6 +22,7 @@ Ads support free content, Ads help support our fan events. Tap “Allow” on th
 - Novemeber/December releases - TOP Users ranking, Ad watching limits will be updated (possible to load at most 1 ad per minute, and up to 10 per hour, up to 100 rewards per 24h), ad value depends on the ad server, not all ads loaded have predetermined reward values (new ad provider), iOS in-app purchases, daily Twitter/Youtube statistics, MV voting
 - On November 30th, 2022 - update of the available ads values
 - New voting schedule 2023
+- End of surprise bonus beta testing (frequency limited)
 
 ### `What are the rewards for winners and how they are provided?`
  - iKPOP holds various possibilities of voting for your favourite artists, every month there is a birthday/debut anniversary rewarded event as well as idol monthly ranking and any special theme vote options. The winners will receive rewards depending on the event level achieved during voting as specified in each event description. iKPOP always wants to provide the best option for the winning fandom, in case a different ad is requested from the same market value level collection (social media campaigns, digital ads in South Korea, US, Japan or other countries) a change of the default one is possible within 2 days of winning the voting. The rewarded AD content is being prepared and selected by the fans. To see the current available collection of ads go to Fan Events. 
@@ -59,6 +60,18 @@ Ads support free content, Ads help support our fan events. Tap “Allow” on th
 - When you are in TOP100 monthly users ranking
 - Fortune wheel or Surprise Bonuses
 - Join iKPOP diamond hour for extra bonuses or boosters
+
+### `Ad Watching limits`
+You can earn diamonds or receive bonus rewards by watching video ads. You can receive up to 100 rewards per 24 hours.
+External providers serve the ads and it is up to their discretion on how many ads you can watch. If there is not enough ad inventory or you had reached ad providers' daily limit you will get a 'No Ad' or 'No fill' message, and you will have to wait at least 5 more minutes to make another attempt to watch an ad.
+To ensure smooth operations:
+- Up to 1 ad can be loaded per minute
+- You can watch up to 10 ads per hour. It is at the discretion of the ad provider if it is rewarded and reward value. Every skipped/dismissed video before "Reward granted" message or end of the video ad, counts as part of the hourly limit.
+
+- Video ads are no longer preloaded, after tapping "Watch video", you have to wait till the video is downloaded and can be displayed.
+- Ability to watch ads smoothly depends of your network connection
+- iKPOP doesnt guarantee that you can watch 100 ads per 24h
+
 
 ### `Amethysts - purple`
 - They are permanent
@@ -220,7 +233,7 @@ iKPOP can be used by any users around the globe including EU citizens so it stri
 The purpose of the GDPR is to provide improved privacy protection and control for EU citizens. It is designed to give individuals control of their data. This is a reason why you can see some additional messages related to EU GDPR while using the app, no matter where you are from as iKPOP doesn't collect location information,  it is impossible to disable them for non-EU users.
 
 ### `How to withdraw?`
-You can withdraw from iKPOP by sending us an email. Set your email in your user profile (Display name) and send us an email from this email with your username. After this action, all information stored in your profile will be deleted and can't be restored.
+You can withdraw from iKPOP by deleting your account from your profile screen. After this action, all information stored in your profile will be deleted and can't be restored.
 
 ### `What if I forget my password?`
 SNS accounts are being used to log in to iKPOP, please recover your password with your account provider (Google, Twitter, Facebook, Apple)
