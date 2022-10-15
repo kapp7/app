@@ -65,15 +65,16 @@ Ads support free content, Ads help support our fan events. Tap “Allow” on th
 
 ### `What are Ad watching limits?`
 
-You can earn diamonds or receive bonus rewards by watching video ads. You can receive up to 100 rewards per 24 hours.
-External providers serve the ads and it is up to their discretion on how many ads you can watch. If there is not enough ad inventory or you had reached ad providers' daily limit you will get a 'No Ad' or 'No fill' message, and you will have to wait at least 5 more minutes to make another attempt to watch an ad.
-To ensure smooth operations:
-- Up to 1 ad can be loaded per minute
-- You can watch up to 10 ads per hour. It is at the discretion of the ad provider if it is rewarded and reward value. Every skipped/dismissed video before "Reward granted" message or end of the video ad, counts as part of the hourly limit.
+On iKPOP you can earn diamonds or receive various bonus rewards by watching the video adverts that are provided. You can receive up to 100 (maximum) gem/non-gem rewards/bonuses every 24 hours. This maximum total is made up of and includes ALL the various ways you can watch adverts on the app which includes things like the extension of any expiring gems and your daily attendance reward.
 
+To ensure a smooth operation the following rules are now in effect:
+- Only 1 advert can be loaded per minute max
+- You can watch a maximum of 10 adverts per hour. It is also at the discretion of the advert provider if the reward is given and also the amount of the said reward, so every time you may skip or dismiss a video before you have seen the "Reward granted" message, then these adverts will still be counted as part of the above hourly limit but as it has been skipped no reward would be granted.
 - Video ads are no longer preloaded, after tapping "Watch video", you have to wait till the video is downloaded and can be displayed.
 - Ability to watch ads smoothly depends of your network connection
-- iKPOP doesnt guarantee that you can watch 100 ads per 24h
+
+iKPOP doesn't guarantee that you can watch 100 ads per 24h
+As it is down to external providers to serve the adverts for us it is also down to their discretion on just how many adverts you can watch in 24hrs. If for some reason there are not enough adverts in the inventory or you have reached the advert providers' daily limit you will now see a 'No Ad' or 'No fill' message appear, then you will have to wait for approx. 5 minutes to make another attempt to watch an advert.
 
 ### `Amethysts - purple`
 - They are permanent
