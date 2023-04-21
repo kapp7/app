@@ -137,7 +137,6 @@ Stay tuned to unlock boosters.
 - Fill in all the details required
 - Select the desired start date, the event or ad display will start at that date
 - You will be charged according to Fan Event rate"
-- You will receive a confirmation email if your Fan Event goes into the Achieved state
 - Ad Creative file must be provided by the creator. It can be submitted via Twitter or email: ikpop.app@gmail.com
 
 
