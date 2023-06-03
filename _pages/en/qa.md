@@ -6,12 +6,9 @@ include_in_header: false
 
 <br>
 
+## `Twitter authentication!!! - Attention`
+As of June 1st, the Twitter authentication is no longer supported. However, for the past 4 months, users have been able to add a secondary authentication method to combat this. Going forward, we kindly request that you prioritize Google or Apple authentication. This is in line with our efforts to make your safety and security our top priority. Thank you for your cooperation and please do not hesitate to reach out to us via DM or email should you require further assistance.
 
-## `Twitter authentication!!! - Action required`
-Due to the recent changes that Twitter has announced we have released a new version that requires adding Google/Apple authentication in case the only authentication provider is Twitter, please upgrade to version 1.2.0 to keep your account safe. Thank you!
-- iKPOP detects accounts with only Twitter authentication and redirects to a screen where you can connect Google or Apple authentication.
-- You can reuse gmail/apple that already is registered with a different account. You will get "The credential is associted with a different user account." error message in such a case.
-- After a successful operation you will be signed out and you need to sign in again with your new authentication provider. 
 
 ## `What is iKPOP?`
 iKPOP is a mobile app for all worldwide K-POP and J-POP fans. It is your Fan Zone where you can have fun and join others in various activities supporting your bias
