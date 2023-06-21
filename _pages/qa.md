@@ -7,9 +7,9 @@ include_in_header: false
 <br>
 
 ## `Attention - Twitter authentication`
-As of June 1st 2023, the Twitter authentication is no longer supported. However, for the past 4 months, users have been able to add a secondary authentication method to combat this. Going forward, we kindly request that you prioritize Google or Apple authentication. This is in line with our efforts to make your safety and security our top priority. Thank you for your cooperation and please do not hesitate to reach out to us via DM or email should you require further assistance.
+As of June 1st 2023, the Twitter authentication and all related functionality is no longer supported. However, for the past 4 months, users have been able to add a secondary authentication method to combat this. Going forward, we kindly request that you prioritize Google or Apple authentication. This is in line with our efforts to make your safety and security our top priority. Thank you for your cooperation and please do not hesitate to reach out to us via DM or email should you require further assistance.
 
-## `Twitter authentication!!! - Action required`
+## `Twitter authentication!!! (no longer supported)`
 Due to the recent changes that Twitter has announced we have released a new version that requires adding Google/Apple authentication in case the only authentication provider is Twitter, please upgrade to version 1.2.0 to keep your account safe. Thank you!
 - iKPOP detects accounts with only Twitter authentication and redirects to a screen where you can connect Google or Apple authentication.
 - You can't reuse gmail/apple that already is registered with a different account. You will get "The credential is associted with a different user account." error message in such a case.
@@ -30,9 +30,8 @@ Ads support free content, Ads help support our fan events. Tap “Allow” on th
 
 
 ### `iKPOP upcoming changes!`
-- Novemeber/December releases - TOP Users ranking, Ad watching limits will be updated (possible to load at most 1 ad per minute, and up to 10 per hour, up to 100 rewards per 24h), ad value depends on the ad server, not all ads loaded have predetermined reward values (new ad provider), iOS in-app purchases, daily Twitter/Youtube statistics, MV voting
-- On November 30th, 2022 - update of the available ads values
-- New voting schedule 2023
+- New types of bonuses
+- New UI
 
 
 
@@ -66,7 +65,7 @@ Ads support free content, Ads help support our fan events. Tap “Allow” on th
 - Convert from Amethysts
 - To convert gems, go to the diamonds charging station
 - Create content
-- Share & Promote - bonus rewards for actual links activity
+- Share & Promote - bonus rewards for actual links activity (app open from iKPOP link events)
 - Participate in various iKPOP events 
 - Participate in Ranking voting - Bias bonus at the end of every month for winners
 - When you are in TOP100 monthly users ranking
