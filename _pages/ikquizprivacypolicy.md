@@ -1,3 +1,13 @@
+---
+layout: page
+title: Privacy Policy
+include_in_header: false
+---
+
+**Last updated**  
+This policy is effective as of 2025-01-01
+
+
 Privacy Policy for ikQUIZ
 
 ikQUIZ itself does not collect any personally identifiable information from its users. 
