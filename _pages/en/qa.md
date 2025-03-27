@@ -6,8 +6,15 @@ include_in_header: false
 
 <br>
 
-## `Twitter authentication!!! - Attention`
-As of June 1st, the Twitter authentication is no longer supported. However, for the past 4 months, users have been able to add a secondary authentication method to combat this. Going forward, we kindly request that you prioritize Google or Apple authentication. This is in line with our efforts to make your safety and security our top priority. Thank you for your cooperation and please do not hesitate to reach out to us via DM or email should you require further assistance.
+## `Attention - Twitter authentication`
+As of June 1st 2023, the Twitter authentication and all related functionality is no longer supported. However, for the past 4 months, users have been able to add a secondary authentication method to combat this. Going forward, we kindly request that you prioritize Google or Apple authentication. This is in line with our efforts to make your safety and security our top priority. Thank you for your cooperation and please do not hesitate to reach out to us via DM or email should you require further assistance.
+
+## `Twitter authentication!!! (no longer supported)`
+Due to the recent changes that Twitter has announced we have released a new version that requires adding Google/Apple authentication in case the only authentication provider is Twitter, please upgrade to version 1.2.0 to keep your account safe. Thank you!
+- iKPOP detects accounts with only Twitter authentication and redirects to a screen where you can connect Google or Apple authentication.
+- You can't reuse gmail/apple that already is registered with a different account. You will get "The credential is associted with a different user account." error message in such a case.
+- After a successful operation you will be signed out and you need to sign in again with your new authentication provider. 
+
 
 
 ## `What is iKPOP?`
@@ -23,13 +30,19 @@ Ads support free content, Ads help support our fan events. Tap “Allow” on th
 
 
 ### `iKPOP upcoming changes!`
-- Novemeber/December releases - TOP Users ranking, Ad watching limits will be updated (possible to load at most 1 ad per minute, and up to 10 per hour, up to 100 rewards per 24h), ad value depends on the ad server, not all ads loaded have predetermined reward values (new ad provider), iOS in-app purchases, daily Twitter/Youtube statistics, MV voting
-- On November 30th, 2022 - update of the available ads values
-- New voting schedule 2023
-- End of surprise bonus beta testing (frequency limited)
+- New types of bonuses
+- New UI
+
+
 
 ### `What are the rewards for winners and how they are provided?`
- - iKPOP holds various possibilities of voting for your favourite artists, every month there is a birthday/debut anniversary rewarded event as well as idol monthly ranking and any special theme vote options. The winners will receive rewards depending on the event level achieved during voting as specified in each event description. iKPOP always wants to provide the best option for the winning fandom, in case a different ad is requested from the same market value level collection (social media campaigns, digital ads in South Korea, US, Japan or other countries) a change of the default one is possible within 2 days of winning the voting. The rewarded AD content is being prepared and selected by the fans. To see the current available collection of ads go to Fan Events. 
+ - iKPOP offers various voting opportunities for fans to support their favorite artists. Every month, we host birthday and debut anniversary events, idol monthly rankings, and special theme votes. The winners receive rewards based on the event level achieved during voting, as outlined in each event description.
+
+iKPOP is committed to providing the best possible reward options for the winning fandoms. If a different ad from the same market value level collection (such as social media campaigns or digital ads in South Korea, the US, Japan, or other countries) is preferred, a change can be requested within 2 days of winning the voting.
+
+While we strive to offer exciting rewards, ad selection remains at iKPOP’s discretion, taking into account market conditions, pricing, and feasibility. The final rewarded ad content is prepared and selected by the fans, ensuring a meaningful tribute to the winning artist.
+
+To explore the current collection of available ads, please visit Fan Events.
  
 ### `Can I recommend a new Idol or a new themed voting?`
  - Wanna vote or support? Request new idol, group, pre debut group, trainee or audition program to be added to iKPOP via Twitter message or email
@@ -58,14 +71,15 @@ Ads support free content, Ads help support our fan events. Tap “Allow” on th
 - Convert from Amethysts
 - To convert gems, go to the diamonds charging station
 - Create content
-- Share & Promote - bonus rewards for actual links activity
+- Share & Promote - bonus rewards for actual links activity (app open from iKPOP link events)
 - Participate in various iKPOP events 
 - Participate in Ranking voting - Bias bonus at the end of every month for winners
 - When you are in TOP100 monthly users ranking
 - Fortune wheel or Surprise Bonuses
 - Join iKPOP diamond hour for extra bonuses or boosters
 
-### `Ad Watching limits`
+
+### `What are Ad watching limits?`
 
 On iKPOP you can earn diamonds or receive various bonus rewards by watching the video adverts that are provided. You can receive up to 100 (maximum) gem/non-gem rewards/bonuses every 24 hours. This maximum total is made up of and includes ALL the various ways you can watch adverts on the app which includes things like the extension of any expiring gems and your daily attendance reward.
 
@@ -237,7 +251,7 @@ iKPOP can be used by any users around the globe including EU citizens so it stri
 The purpose of the GDPR is to provide improved privacy protection and control for EU citizens. It is designed to give individuals control of their data. This is a reason why you can see some additional messages related to EU GDPR while using the app, no matter where you are from as iKPOP doesn't collect location information,  it is impossible to disable them for non-EU users.
 
 ### `How to withdraw?`
-You can withdraw from iKPOP by deleting your account from your profile screen. After this action, all information stored in your profile will be deleted and can't be restored.
+Go to your profile and delete your account.
 
 ### `What if I forget my password?`
 SNS accounts are being used to log in to iKPOP, please recover your password with your account provider (Google, Twitter, Facebook, Apple)
@@ -251,4 +265,4 @@ SNS accounts are being used to log in to iKPOP, please recover your password wit
 - You can watch YT stats in real-time
 
 ### `Support`
-Contact us via Twitter dm or email at @ikpop.app@gmail.com to report issues
+Contact us via email at @ikpop.app@gmail.com to report issues
