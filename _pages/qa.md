@@ -259,4 +259,4 @@ SNS accounts are being used to log in to iKPOP, please recover your password wit
 - You can watch YT stats in real-time
 
 ### `Support`
-Contact us via Twitter dm or email at @ikpop.app@gmail.com to report issues
+Contact us via email at @ikpop.app@gmail.com to report issues
