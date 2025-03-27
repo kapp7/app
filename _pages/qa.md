@@ -36,7 +36,13 @@ Ads support free content, Ads help support our fan events. Tap “Allow” on th
 
 
 ### `What are the rewards for winners and how they are provided?`
- - iKPOP holds various possibilities of voting for your favourite artists, every month there is a birthday/debut anniversary rewarded event as well as idol monthly ranking and any special theme vote options. The winners will receive rewards depending on the event level achieved during voting as specified in each event description. iKPOP always wants to provide the best option for the winning fandom, in case a different ad is requested from the same market value level collection (social media campaigns, digital ads in South Korea, US, Japan or other countries) a change of the default one is possible within 2 days of winning the voting. The rewarded AD content is being prepared and selected by the fans. To see the current available collection of ads go to Fan Events. 
+ - iKPOP offers various voting opportunities for fans to support their favorite artists. Every month, we host birthday and debut anniversary events, idol monthly rankings, and special theme votes. The winners receive rewards based on the event level achieved during voting, as outlined in each event description.
+
+iKPOP is committed to providing the best possible reward options for the winning fandoms. If a different ad from the same market value level collection (such as social media campaigns or digital ads in South Korea, the US, Japan, or other countries) is preferred, a change can be requested within 2 days of winning the voting.
+
+While we strive to offer exciting rewards, ad selection remains at iKPOP’s discretion, taking into account market conditions, pricing, and feasibility. The final rewarded ad content is prepared and selected by the fans, ensuring a meaningful tribute to the winning artist.
+
+To explore the current collection of available ads, please visit Fan Events.
  
 ### `Can I recommend a new Idol or a new themed voting?`
  - Wanna vote or support? Request new idol, group, pre debut group, trainee or audition program to be added to iKPOP via Twitter message or email
