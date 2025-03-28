@@ -13,7 +13,7 @@ As of June 1st 2023, the Twitter authentication and all related functionality is
 Due to the recent changes that Twitter has announced we have released a new version that requires adding Google/Apple authentication in case the only authentication provider is Twitter, please upgrade to version 1.2.0 to keep your account safe. Thank you!
 - iKPOP detects accounts with only Twitter authentication and redirects to a screen where you can connect Google or Apple authentication.
 - You can't reuse gmail/apple that already is registered with a different account. You will get "The credential is associted with a different user account." error message in such a case.
-- After a successful operation you will be signed out and you need to sign in again with your new authentication provider. 
+- After a successful operation you will be signed out and you need to sign in again with your new authentication provider.
 
 
 
@@ -43,6 +43,9 @@ iKPOP is committed to providing the best possible reward options for the winning
 While we strive to offer exciting rewards, ad selection remains at iKPOP’s discretion, taking into account market conditions, pricing, and feasibility. The final rewarded ad content is prepared and selected by the fans, ensuring a meaningful tribute to the winning artist.
 
 To explore the current collection of available ads, please visit Fan Events.
+
+As of January 1st, 2025 Ads are no longer listed due to availbility changes, the default reward for 1st rank is YouTube ads campaign, level up for NYTS ad requires at least 2M diamonds. 
+Significant update coming in the next version.
  
 ### `Can I recommend a new Idol or a new themed voting?`
  - Wanna vote or support? Request new idol, group, pre debut group, trainee or audition program to be added to iKPOP via Twitter message or email
