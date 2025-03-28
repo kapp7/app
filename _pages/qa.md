@@ -36,6 +36,7 @@ Ads support free content, Ads help support our fan events. Tap “Allow” on th
 
 
 ### `What are the rewards for winners and how they are provided?`
+
  - iKPOP offers various voting opportunities for fans to support their favorite artists. Every month, we host birthday and debut anniversary events, idol monthly rankings, and special theme votes. The winners receive rewards based on the event level achieved during voting, as outlined in each event description.
 
 iKPOP is committed to providing the best possible reward options for the winning fandoms. If a different ad from the same market value level collection (such as social media campaigns or digital ads in South Korea, the US, Japan, or other countries) is preferred, a change can be requested within 2 days of winning the voting.
@@ -43,6 +44,9 @@ iKPOP is committed to providing the best possible reward options for the winning
 While we strive to offer exciting rewards, ad selection remains at iKPOP’s discretion, taking into account market conditions, pricing, and feasibility. The final rewarded ad content is prepared and selected by the fans, ensuring a meaningful tribute to the winning artist.
 
 To explore the current collection of available ads, please visit Fan Events.
+
+As of January 1st, 2025 Ads are no longer listed due to availbility changes, the default reward for 1st rank is YouTube ads campaign, level up for NYTS ad requires at least 2M diamonds. 
+Significant update coming in the next version.
  
 ### `Can I recommend a new Idol or a new themed voting?`
  - Wanna vote or support? Request new idol, group, pre debut group, trainee or audition program to be added to iKPOP via Twitter message or email
