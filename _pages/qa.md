@@ -6,6 +6,28 @@ include_in_header: false
 
 <br>
 
+## `Important Update: Attendance Issue on May 29th & Our Apologies`
+
+Dear Valued User,
+
+We sincerely apologize for the inconvenience you experienced with marking your attendance on May 29th. Due to an unforeseen server error, our system was temporarily unavailable on that day. We understand this was frustrating, and we are truly sorry for any disruption to your routine.
+
+Here's how we're making it right:
+
+To compensate for this issue, we will automatically credit your account with 3x the reward value you earned for marking your attendance on May 28th, provided you successfully marked attendance on May 28th. This bonus will be added to your account shortly. There will be similar updates to your balance based on ads watched on May 28th data.
+
+What happened?
+
+This incident was caused by an outage with our cloud service provider, which affected several of our core functionalities. Our development team has been working tirelessly to address this and is actively implementing a solution to transition to a more robust infrastructure. We anticipate this change will be fully rolled out by late July.
+
+Looking Ahead: Join Our Beta Program!
+
+In the meantime, we're excited to announce an opportunity for our dedicated users to help us test the upcoming, more stable version of the app. If you're interested in being among the first to experience the improvements and earn extra diamonds for your participation, you'll soon be able to apply for our beta testing program. The submission form will be opened shortly, so keep an eye out for another announcement!
+
+Thank you for your understanding and continued support. We are committed to providing you with the best possible experience.
+
+
+
 ## `Attention - Twitter authentication`
 As of June 1st 2023, the Twitter authentication and all related functionality is no longer supported. However, for the past 4 months, users have been able to add a secondary authentication method to combat this. Going forward, we kindly request that you prioritize Google or Apple authentication. This is in line with our efforts to make your safety and security our top priority. Thank you for your cooperation and please do not hesitate to reach out to us via DM or email should you require further assistance.
 
