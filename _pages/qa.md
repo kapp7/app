@@ -6,6 +6,30 @@ include_in_header: false
 
 <br>
 
+## `Important Update: Update — September 2025`
+
+Q: What’s changing with rewarded ads?
+A: Starting September 2025, the maximum number of rewarded ads is 30 per day.
+
+Q: How will voting work for the rest of 2025?
+A: Only the November and December 2025 voting events will run in the current app version.
+
+Q: What happens after the 2025 voting ends?
+A: We’re planning a new release with a completely new experience after the 2025 voting concludes.
+
+Q: I’m on Android—anything I should know?
+A: A fully functional Android version may be delayed. If you’re on Android, consider using your diamonds by the end of 2025.
+
+Q: Can I join the iOS beta and earn extra diamonds?
+A: Yes! If you want to test the iOS beta (and earn extra diamonds for future use), email ikpop.app@gmail.com
+
+Q: How are beta spots assigned?
+A: Free spots will be divided fairly between fandoms to keep things balanced.
+
+Q: How can I share feedback?
+A: We’re building this by fans, for fans—your feedback is essential. Send thoughts and suggestions to ikpop.app@gmail.com
+ so we can make the app a truly fan-friendly place.
+
 ## `Important Update: Attendance Issue on May 29th & Our Apologies`
 
 Dear Valued User,
